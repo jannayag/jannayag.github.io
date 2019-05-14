@@ -1,7 +1,7 @@
 ---
 title: Journalism
 layout: landing
-description: 'Technological, Societal, and Cultural Reporting'
+description: Jannaya you're amazing
 image: assets/images/journalism.jpg
 nav-menu: true
 ---
