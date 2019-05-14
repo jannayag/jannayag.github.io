@@ -31,7 +31,7 @@ nav-menu: true
 				</header>
 				<p>I am extremely famous on twitter like ydek</p>
 				<ul class="actions">
-					<li><a href="javascript:alert('I just saw you but i miss you')" class="button">Learn more</a></li>
+					<li><a href="javascript:alert('I just saw you but i still miss you')" class="button">Learn more</a></li>
 				</ul>
 			</div>
 		</div>
