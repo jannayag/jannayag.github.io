@@ -1,7 +1,7 @@
 ---
 layout: home
 title: Home
-landing-title: 'Jannaya Garcia Portfolio'
+landing-title: 'Hi, I'm Jannaya'
 description: null
 image: null
 author: null
