@@ -2,7 +2,7 @@
 layout: post
 title: About
 description: About Me
-image: assets/images/jannaya.jpg
+image: assets/images/Screenshot_20190514-160614.png
 nav-menu: true
 ---
 Jannaya you're so beautiful like i can't even
