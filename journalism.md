@@ -38,7 +38,7 @@ nav-menu: true
 	</section>
 	<section>
 		<a href="generic.html" class="image">
-			<img src="assets/images/jannayayoutube.PNG" alt="" data-position="top center" />
+			<img src="assets/images/yt.jpg" alt="" data-position="top center" />
 		</a>
 		<div class="content">
 			<div class="inner">
