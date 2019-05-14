@@ -1,4 +1,5 @@
-# Forty - Jekyll Theme
+# Aight jannaya upload images to assets/images and pls lmk if you need _anything_
+## Forty - Jekyll Theme
 
 A Jekyll version of the "Forty" theme by [HTML5 UP](https://html5up.net/).  
 
