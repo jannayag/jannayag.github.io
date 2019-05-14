@@ -2,7 +2,7 @@
 layout: post
 title: About
 description: About Me
-image: assets/images/profile.jpeg
+image: assets/images/jannaya.jpg
 nav-menu: true
 ---
 
