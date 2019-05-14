@@ -1,10 +1,10 @@
 # site settings
 title: Portfolio
-subtitle: by Avi Mehra
-email: amehra.ta@mysummitps.org
-description: A portfolio showcasing<br>the work of Avi Mehra
+subtitle: by Jannaya Garcia
+email: jagarcia.ta@mysummitps.org
+description: A portfolio showcasing<br>the work of Jannaya Garcia
 baseurl: "" # the subpath of your site, e.g. /blog
-url: https://pihart.github.io
+url: https://jannayag.github.io
 author:
 street_address: 285 Blossom Hill Road
 city: San Jose
@@ -20,7 +20,7 @@ tiles-count: 6
 # social settings
 500px_url:
 facebook_url:
-github_url: https://github.com/pihart
+github_url: https://github.com/jannayag
 gitlab_url: 
 instagram_url: 
 linkedin_url: 
