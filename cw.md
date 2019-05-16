@@ -47,10 +47,7 @@ nav-menu: true
 
 
 
-</code></pre>
 
-</div>
-</div>
 
 </div>
 </section>
