@@ -9,7 +9,7 @@ nav-menu: true
 <div id="main">
 
 <!-- One -->
-< id="three">
+
 	<div class="inner">
 		<header class="major">
 			<h2>Massa libero</h2>
@@ -19,6 +19,5 @@ nav-menu: true
 			<li><a href="generic.html" class="button next">Get Started</a></li>
 		</ul>
 	</div>
-</section>
 
 </div>
