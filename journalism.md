@@ -1,7 +1,7 @@
 ---
 title: Journalism
 layout: landing
-description: Jannaya you're amazing
+description: Research, Write, Film, Publish
 image: assets/images/journalism.jpg
 nav-menu: true
 ---
@@ -12,9 +12,9 @@ nav-menu: true
 <section id="one">
 	<div class="inner">
 		<header class="major">
-			<h2>Gracias por todo</h2>
+			<h2></h2>
 		</header>
-		<p>Yo soy tan molesto a ti y aunque no te gusta pasar el rato conmigo me dejas hablarte y por eso gracias tyty</p>
+		<p></p>
 	</div>
 </section>
 
@@ -22,44 +22,44 @@ nav-menu: true
 <section id="two" class="spotlights">
 	<section>
 		<a href="generic.html" class="image">
-			<img src="assets/images/jannayaverified.PNG" alt="" data-position="center center" />
+			<img src= alt="" data-position="center center" />
 		</a>
 		<div class="content">
 			<div class="inner">
 				<header class="major">
-					<h3>Twitter</h3>
+					<h3></h3>
 				</header>
-				<p>I am extremely famous on twitter like ydek</p>
+				<p></p>
 				<ul class="actions">
-					<li><a href="javascript:alert('I just saw you but i still miss you')" class="button">Learn more</a></li>
+					<li><a href= class="button">Learn more</a></li>
 				</ul>
 			</div>
 		</div>
 	</section>
 	<section>
 		<a href="generic.html" class="image">
-			<img src="assets/images/yt.jpg" alt="" data-position="top center" />
+			<img src= alt="" data-position="top center" />
 		</a>
 		<div class="content">
 			<div class="inner">
 				<header class="major">
-					<h3>Youtube</h3>
+					<h3></h3>
 				</header>
-				<p>I'm a professional dancer and English songs suck and banda is the superior form of music but i can still dance to english songs iykwim. here is my sister pretending to sing over the justin bieber soundtrack and me dancing. notice how i try to jump and turn three times, but each time i'm trying to jump 1/4 turn so i almost fall over on the last jump but i look hella cute doing it</p> <p>Also i have like 72.5K views and 750 of them are avi</p>
+				<p></p>
 				<ul class="actions">
-					<li><a href="https://www.youtube.com/watch?v=9JpvQRoB_6M" class="button">Watch the video</a></li>
+					<li><a href= class="button">Watch the video</a></li>
 				</ul>
 			</div>
 		</div>
 	</section>
 	<section>
 		<a href="generic.html" class="image">
-			<img src="assets/images/jannaya.jpg" alt="" data-position="25% 25%" />
+			<img src= alt="" data-position="25% 25%" />
 		</a>
 		<div class="content">
 			<div class="inner">
 				<header class="major">
-					<h3>yak im an instagram baddie and im a lil student athlete</h3>
+					<h3>ete</h3>
 				</header>
 				<p>Nullam et orci eu lorem consequat tincidunt vivamus et sagittis magna sed nunc rhoncus condimentum sem. In efficitur ligula tate urna. Maecenas massa sed magna lacinia magna pellentesque lorem ipsum dolor. Nullam et orci eu lorem consequat tincidunt. Vivamus et sagittis tempus.</p>
 				<ul class="actions">
