@@ -9,12 +9,6 @@ nav-menu: true
 <div id="main">
 
 <!-- One -->
-
-<!-- Two -->
-
-</section>
-
-<!-- Three -->
 <section id="three">
 	<div class="inner">
 		<header class="major">
