@@ -19,15 +19,7 @@ nav-menu: true
 </section>
 
 <!-- Two -->
-<section id="two" class="spotlights">
-	<section>
-		<a href="generic.html" class="image">
-			<img src= alt="" data-position="center center" />
-		</a>
-		<div class="content">
-			<div class="inner">
-				<header class="major">
-					<h3></h3>
+
 				</header>
 				<p></p>
 				<ul class="actions">
