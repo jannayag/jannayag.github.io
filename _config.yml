@@ -2,7 +2,7 @@
 title: Portfolio
 #subtitle: by Jannaya Garcia
 email: jagarcia.ta@mysummitps.org
-description: A portfolio showcasing<br>the work of Jannaya Garcia
+description: A portfolio showcasing <br>the work of Jannaya Garcia
 baseurl: "" # the subpath of your site, e.g. /blog
 url: https://jannayag.github.io
 author: Jannaya Garcia
